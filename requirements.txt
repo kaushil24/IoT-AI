@@ -11,3 +11,5 @@ hvr
 py-ecg-detectors
 https://github.com/neuropsychology/NeuroKit.py/zipball/master
 pysiology
+pydotplus
+
