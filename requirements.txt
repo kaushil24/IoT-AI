@@ -1,0 +1,13 @@
+pandas
+scikitlearn
+numpy
+seaborn
+matplotlib
+Keras
+plotly
+heartpy
+biosppy
+hvr
+py-ecg-detectors
+https://github.com/neuropsychology/NeuroKit.py/zipball/master
+pysiology
