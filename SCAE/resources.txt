@@ -1,0 +1,1 @@
+How to convert MIT-BIH data to Python redable format: https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67
